@@ -1,0 +1,94 @@
+PS C:\Users\Usuario\OneDrive\Documents\Programacion Web\files> npm create vite@latest tres-en-raya -- --template react
+
+Need to install the following packages:
+create-vite@9.3.3
+Ok to proceed? (y) y
+
+> npx
+> cva tres-en-raya --template react
+
+◇  Which linter to use?
+│  Oxlint
+│
+◇  Install with npm and start now?
+│  Yes
+│
+◇  Scaffolding project in C:\Users\Usuario\OneDrive\Documents\Programacion Web\files\tres-en-raya...
+│
+◇  Installing dependencies with npm...
+
+added 24 packages, and audited 25 packages in 17s
+
+9 packages are looking for funding
+  run `npm fund` for details
+
+found 0 vulnerabilities
+│
+◇  Starting dev server...
+
+> tres-en-raya@0.0.0 dev
+> vite
+
+
+  VITE v8.3.5  ready in 580 ms
+
+  ➜  Local:   http://localhost:5173/
+  ➜  Network: use --host to expose
+  ➜  press h + enter to show help
+
+h
+
+  Shortcuts
+  press r + enter to restart the server
+  press u + enter to show server url
+  press o + enter to open in browser
+  press c + enter to clear console
+ *  History restored quit
+
+PS C:\Users\Usuario\OneDrive\Documents\Programacion Web\files> npm run dev
+npm error code ENOENT
+npm error syscall open
+npm error path C:\Users\Usuario\OneDrive\Documents\Programacion Web\files\package.json
+npm error errno -4058
+npm error enoent Could not read package.json: Error: ENOENT: no such file or directory, open 'C:\Users\Usuario\OneDrive\Documents\Programacion Web\files\package.json'
+npm error enoent This is related to npm not being able to find a file.
+npm error enoent
+npm error A complete log of this run can be found in: C:\Users\Usuario\AppData\Local\npm-cache\_logs\2026-10-29T00_21_18_307Z-debug-0.log
+PS C:\Users\Usuario\OneDrive\Documents\Programacion Web\files> npm run dev
+npm error code ENOENT
+npm error syscall open
+npm error path C:\Users\Usuario\OneDrive\Documents\Programacion Web\files\package.json
+npm error errno -4058
+npm error enoent Could not read package.json: Error: ENOENT: no such file or directory, open 'C:\Users\Usuario\OneDrive\Documents\Programacion Web\files\package.json'
+npm error enoent This is related to npm not being able to find a file.
+npm error enoent
+npm error A complete log of this run can be found in: C:\Users\Usuario\AppData\Local\npm-cache\_logs\2026-10-29T00_22_17_420Z-debug-0.log
+PS C:\Users\Usuario\OneDrive\Documents\Programacion Web\files> npm run dev
+npm error code ENOENT
+npm error syscall open
+npm error path C:\Users\Usuario\OneDrive\Documents\Programacion Web\files\package.json
+npm error errno -4058
+npm error enoent Could not read package.json: Error: ENOENT: no such file or directory, open 'C:\Users\Usuario\OneDrive\Documents\Programacion Web\files\package.json'
+npm error enoent This is related to npm not being able to find a file.
+npm error enoent
+npm error A complete log of this run can be found in: C:\Users\Usuario\AppData\Local\npm-cache\_logs\2026-10-29T00_22_20_085Z-debug-0.log                                                           
+PS C:\Users\Usuario\OneDrive\Documents\Programacion Web\files> cd tres-en-raya
+>> npm run dev
+
+> tres-en-raya@0.0.0 dev
+> vite
+
+
+  VITE v8.3.5  ready in 437 ms
+
+  ➜  Local:   http://localhost:5173/
+  ➜  Network: use --host to expose
+  ➜  press h + enter to show help
+8:25:58 PM [vite] (client) hmr update /src/App.css
+8:25:58 PM [vite] (client) hmr update /src/App.css (x2)
+8:25:59 PM [vite] (client) hmr update /src/App.css (x3)
+8:26:00 PM [vite] (client) hmr update /src/App.css (x4)
+8:28:17 PM [vite] (client) hmr update /src/App.css (x5)
+8:28:18 PM [vite] (client) hmr update /src/App.css (x6)
+
+
